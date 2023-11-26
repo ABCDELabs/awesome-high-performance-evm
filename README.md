@@ -1,1 +1,1 @@
-# awesome-high-performance-EVM
+# awesome-high-performance-evm
